@@ -1,0 +1,7 @@
+C:\Users\markr\JobProject\coding-challenges\RobotWars\RobotWars\obj\Debug\RobotWars.csproj.AssemblyReference.cache
+C:\Users\markr\JobProject\coding-challenges\RobotWars\RobotWars\obj\Debug\RobotWars.csproj.CoreCompileInputs.cache
+C:\Users\markr\JobProject\coding-challenges\RobotWars\RobotWars\bin\Debug\RobotWars.exe.config
+C:\Users\markr\JobProject\coding-challenges\RobotWars\RobotWars\bin\Debug\RobotWars.exe
+C:\Users\markr\JobProject\coding-challenges\RobotWars\RobotWars\bin\Debug\RobotWars.pdb
+C:\Users\markr\JobProject\coding-challenges\RobotWars\RobotWars\obj\Debug\RobotWars.exe
+C:\Users\markr\JobProject\coding-challenges\RobotWars\RobotWars\obj\Debug\RobotWars.pdb
